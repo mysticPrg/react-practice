@@ -1,0 +1,23 @@
+{
+  "name": "react-practice",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-logger": "^3.0.1",
+    "redux-saga": "^0.15.3"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.x"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
